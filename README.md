@@ -29,7 +29,7 @@
  ### 🏋️‍♀️ 프로젝트 필요성
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/67569c61-d39d-45f2-abf2-3b4d3ae7c36b" width="400" />
+  <img src="https://github.com/user-attachments/assets/67569c61-d39d-45f2-abf2-3b4d3ae7c36b" width="329" />
   <img src="https://github.com/user-attachments/assets/9e9ec374-2277-4529-896d-1a71cf6f5c9a" width="400" />
 </div>
  
@@ -48,6 +48,18 @@
  - 현대와 기아 FAQ 정리
 
  ### 🛠️ 기술스택
+ #### Frontend (프런트엔드)
+ <img               src="https://camo.githubusercontent.com/04238263fbe1f4f062268272b52949cf8b78089042905addc0e141e7931e66ee/687474703a2f2f696d672e736869656c64732e696f2f62616467652f53747265616d6c69742d4646344234423f7374796c653d666c6174266c6f676f3d53747265616d6c6974266c6f676f436f6c6f723d7768697465" /> :  데이터 시각화를 위한 프레임워크
+
+ <img src="https://img.shields.io/badge/plotly-%233F4F75?style=for-the-badge&logo=plotly&logoColor=white" width = "70"> : 그래프 시각화를 위한 라이브러리
+
+ #### Backend (백엔드)
+ <img src="https://camo.githubusercontent.com/56290d7eb149acd99d843348e14ab97c5d8b29c6ff49c0057068bb99df658229/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" /> : 데이터 처리와 로직 구현
+ 
+ <img src="https://camo.githubusercontent.com/9a21b627eec60e85dcb70a6d1c1bce663c02424adf1033831c49aac48c72639c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d7973716c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d4d7953514c266c6f676f436f6c6f723d7768697465" /> : 데이터베이스로써 데이터 저장 및 관리
+
+ <img src="https://camo.githubusercontent.com/ab59477fbe5a806a3e6dfcafa560e3fb813781482937dd2ed3feb5b8cdcae4b4/687474703a2f2f696d672e736869656c64732e696f2f62616467652f50616e6461732d3135303435383f7374796c653d666c6174266c6f676f3d50616e646173266c6f676f436f6c6f723d7768697465" /> : 데이터 필터 및 정리
+
 
  ### 📝 WBS
 | 작업명 | 시작일 | 종료일 | 담당자 | 산출물 |
