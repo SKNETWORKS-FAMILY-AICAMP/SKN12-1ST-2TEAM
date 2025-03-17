@@ -40,3 +40,7 @@
  - 제조사별 리콜 현황 확인
  - 리콜 대수 TOP10 제조사에 대한 연도별 리콜 현황 제시
  - 현대와 기아 FAQ 정리
+
+   ![사진1](https://github.com/user-attachments/assets/67569c61-d39d-45f2-abf2-3b4d3ae7c36b)
+   ![사진2](https://github.com/user-attachments/assets/9e9ec374-2277-4529-896d-1a71cf6f5c9a)
+
