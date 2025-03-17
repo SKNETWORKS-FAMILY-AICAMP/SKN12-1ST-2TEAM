@@ -4,7 +4,7 @@
 
 | 손현성 | 조성지 | 지상원 | 최문영 |
 |--------|--------|--------|--------|
-| ![손현성](img width="441" alt="image" src="https://github.com/user-attachments/assets/b868aa0e-fc1e-4432-81ba-91c6bca0efc1") | ![조성지](img width="443" alt="image" src="https://github.com/user-attachments/assets/34718bff-44ef-4d8a-8c08-1302f87e1a7f") | ![지상원](img width="444" alt="image" src="https://github.com/user-attachments/assets/275436f7-ed94-4beb-8e29-bee4d58a6793") | ![최문영](img width="442" alt="image" src="https://github.com/user-attachments/assets/81b4614e-30d0-428d-8c9e-3e57d9aad891") | 
+| ![손현성](https://i.namu.wiki/i/q1uuA31r8Tpg3IQpSH9ZyAj0Yzs8FwQAxDLJhM8XMOEXSLG2X_6luRTahILasJ1PPBwQ3K3qLXR2OlGIhMUiXXYAcVa1ZoNxdSccik0wIVCAetq7yQunjXitgQGjeVZJ-qev0Q-ULb4yzwqf06htzQ.webp) | ![조성지](https://i.namu.wiki/i/rvnhAwIEZNyFekdqyDUAZfvZcQ66lRxeERcG5U6LUUVX2PLMF8AEfb9MvER_sQ_Hp5PHbhvmXW2ZZjEqW2HUwP5UkJW_WOo9ezL8ugdu1pP3nKywd32Q6SLFRBlTolGDIEftDMpDtgfpEQtjbM0QWw.webp) | ![지상원](https://i.namu.wiki/i/ouF0f9KhvkskDPi4d9Kx4Y8O5chd0ykB_9-Kqdjec_eYNzbXFMFOc_pBLSAsEcxzKypQimmmm8azbAQudNv6v0v1S7gBxUm8AJB3w3Oy0ldD-bwE76Wka_Z3jzkIGgupYa5337Vi34SeYpCF-JUUkQ.webp) | ![최문영](https://i.namu.wiki/i/SyCZk2aeCocaqw-mI-Tkxgfd2LhRBdpr6OgDkgqovtsS9YPQat-qu_xiYYFrVqVjvCfZt7dqyZc5trdV0J-F9qqoYlfqtrZZx6n1_thuq6jH6XXbGiZ4h-AsG8O0hp2HRz4OjD6nUB9hUvPj-WSAqQ.webp) | 
 
 
 
