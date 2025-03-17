@@ -1,25 +1,22 @@
 # SKN12-1ST-2TEAM
 
 ## 팀원소개
-|------|------|
-| **사진** | ![손형성](<img width="441" alt="image" src="https://github.com/user-attachments/assets/b868aa0e-fc1e-4432-81ba-91c6bca0efc1" />
-) |
+
+| **사진** | ![손형성](<img width="441" alt="image" src="https://github.com/user-attachments/assets/b868aa0e-fc1e-4432-81ba-91c6bca0efc1" />) |
 | **이름** | 손형성 |
-| **직업** | 개발자 |
-|------|------|
+
+
 | **사진** | ![조성지](<img width="443" alt="image" src="https://github.com/user-attachments/assets/34718bff-44ef-4d8a-8c08-1302f87e1a7f" />) |
 | **이름** | 조성지 |
-| **직업** | 개발자 |
-|------|------|
-| **사진** | ![지상원](<img width="444" alt="image" src="https://github.com/user-attachments/assets/275436f7-ed94-4beb-8e29-bee4d58a6793" />
-) |
+
+
+| **사진** | ![지상원](<img width="444" alt="image" src="https://github.com/user-attachments/assets/275436f7-ed94-4beb-8e29-bee4d58a6793" />) |
 | **이름** | 지상원 |
-| **직업** | 개발자 |
-|------|------|
-| **사진** | ![최문영](<img width="442" alt="image" src="https://github.com/user-attachments/assets/81b4614e-30d0-428d-8c9e-3e57d9aad891" />
-) |
+
+
+| **사진** | ![최문영](<img width="442" alt="image" src="https://github.com/user-attachments/assets/81b4614e-30d0-428d-8c9e-3e57d9aad891" />) |
 | **이름** | 최문영 |
-| **직업** | 개발자 |
+
 
 
  
