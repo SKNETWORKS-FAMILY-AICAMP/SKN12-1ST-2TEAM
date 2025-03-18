@@ -86,7 +86,8 @@
 ![erd](https://github.com/user-attachments/assets/dfbb57c5-5ef4-49a5-bea6-979773f6fcb1)
 
  ### 📊 수행결과
-<img src=![Image](https://github.com/user-attachments/assets/388af76f-7493-4698-b70b-b3785262ac08)>
+![1111](https://github.com/user-attachments/assets/7beb71eb-6b5b-48bf-9180-1f5a587662ab)
+
 
  ### 🕊️ 한줄회고
 - 손현성: 처음하는 프로젝트라 아쉬움이 조금 남아있지만 팀원들과 협업하며 문제를 해결해 나가면서 많은 것을 배웠습니다. 함께한 조원들 모두 고생하셨습니다.
