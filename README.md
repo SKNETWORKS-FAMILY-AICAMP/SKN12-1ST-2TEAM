@@ -92,9 +92,8 @@
 ![1111](https://github.com/user-attachments/assets/7beb71eb-6b5b-48bf-9180-1f5a587662ab)
 ![2222](https://github.com/user-attachments/assets/5ea0721d-d8da-446d-85da-74f226e57e29)
 ![3333](https://github.com/user-attachments/assets/9793424b-0349-48fc-b42e-fa4c9371e4d5)
-![4444](https://github.com/user-attachments/assets/923f31fc-8c3d-4e7b-be38-69c622776bbb)
 ![5555](https://github.com/user-attachments/assets/354a63d0-f395-4490-8e34-fd40982331bd)
-
+![4444](https://github.com/user-attachments/assets/923f31fc-8c3d-4e7b-be38-69c622776bbb)
 
  ### 🕊️ 한줄회고
 - 손현성: 처음하는 프로젝트라 아쉬움이 조금 남아있지만 팀원들과 협업하며 문제를 해결해 나가면서 많은 것을 배웠습니다. 함께한 조원들 모두 고생하셨습니다.
