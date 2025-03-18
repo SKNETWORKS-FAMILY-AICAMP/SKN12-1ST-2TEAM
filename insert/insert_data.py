@@ -78,7 +78,7 @@ class Insert_Data:
             cursor.execute(insert_query)
             conn.commit()
 
-            # create table kia_faq
+            # create table recall_top10
             insert_query = """
             create table car_recall_db.recall_top10(
                 top10_id int auto_increment primary key,
