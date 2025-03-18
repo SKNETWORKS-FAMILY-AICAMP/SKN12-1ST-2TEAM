@@ -81,12 +81,19 @@
 | 프로젝트 평가 및 회고 | 25.03.17 | 25.03.18 | ALL | - |
 
  ### 🗃️ 주요기능
+- 연도별 리콜 현황(국산 및 수입 자동차 비교)
+- 제조사별 리콜 현황(3개년 리콜 차량 대수 TOP10 제조사 분석)
+- 현대/기아 FAQ 조회 시스템(브랜드 선택 / 키워드 검색 / 질문 선택)
 
  ### 📜 ERD
 ![erd](https://github.com/user-attachments/assets/dfbb57c5-5ef4-49a5-bea6-979773f6fcb1)
 
  ### 📊 수행결과
 ![1111](https://github.com/user-attachments/assets/7beb71eb-6b5b-48bf-9180-1f5a587662ab)
+![2222](https://github.com/user-attachments/assets/5ea0721d-d8da-446d-85da-74f226e57e29)
+![3333](https://github.com/user-attachments/assets/9793424b-0349-48fc-b42e-fa4c9371e4d5)
+![4444](https://github.com/user-attachments/assets/923f31fc-8c3d-4e7b-be38-69c622776bbb)
+![5555](https://github.com/user-attachments/assets/354a63d0-f395-4490-8e34-fd40982331bd)
 
 
  ### 🕊️ 한줄회고
