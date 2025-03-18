@@ -81,7 +81,7 @@
  ### 🗃️ 주요기능
 
  ### 📜 ERD
-<img src="https://github.com/user-attachments/assets/6335f6bd-f81b-4b90-8118-340f8ddf97f2"/>
+![erd](https://github.com/user-attachments/assets/dfbb57c5-5ef4-49a5-bea6-979773f6fcb1)
 
  ### 📊 수행결과
 
